@@ -86,7 +86,6 @@
 			<pkg>socat</pkg>
 			<pkg>gdbserver</pkg>
 			<pkg>strace</pkg>
-			<pkg>my-app</pkg>
 		</pkg-list>
 		<finetuning>
 			<!-- reduce image size a bit -->
