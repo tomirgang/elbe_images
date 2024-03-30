@@ -106,6 +106,6 @@
 			<set_packer packer="none">sdcard.qcow2</set_packer>
 		</project-finetuning>
 	</target>
-	<archivedir>overlays/networkd</archivedir>
-	<archivedir>overlays/ssh</archivedir>
+	<archivedir>../../overlays/networkd</archivedir>
+	<archivedir>../../overlays/ssh</archivedir>
 </ns0:RootFileSystem>
